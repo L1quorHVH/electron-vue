@@ -1,0 +1,19 @@
+{
+  "name": "electron_test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "L1quorHVH",
+  "license": "ISC",
+  "description": "This is a test for electron",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "electron": "29.1.1",
+    "vite": "^6.4.1",
+    "vue": "^3.5.23"
+  }
+}
